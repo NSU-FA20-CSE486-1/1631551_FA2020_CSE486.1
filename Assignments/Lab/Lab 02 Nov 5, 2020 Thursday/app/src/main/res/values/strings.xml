@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent Assignment</string>
+    <string name="happy_des">happy_description</string>
+    <string name="textView">Intent Demo</string>
+    <string name="button1">GO TO NEXT ACTIVITY</string>
+    <string name="button2">GO BACK</string>
+    <string name="hint">enter a text</string>
+    <string name="textView2"></string>
+</resources>
